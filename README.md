@@ -5,4 +5,6 @@ Extremely inexperienced coder trying to set up a webstore for the clothing that 
 
 The framework for the homepage is set up for the most part besides its need for a more responsive navigation bar and social media icons to visit my accounts on Instagram, Twitter, etc.
 
-The shop and contact form still need to be made. I'll try to integrate a PayPal widget at some point, and I also need to make some sort of backend to collect all of the information from the contact form.
+The shop has been made. PayPal buttons were integrated for ease of purchase and two of my products were added.
+
+The contact form still needs to be made, and I still have to find a way to create a backend to collect all of the information that users send.
